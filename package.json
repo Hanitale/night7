@@ -1,0 +1,23 @@
+{
+  "name": "night7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "day5project.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanitale/night7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hanitale/night7/issues"
+  },
+  "homepage": "https://github.com/Hanitale/night7#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.5"
+  }
+}
